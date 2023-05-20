@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "moduleResolution": "node",
+        "strict": true,
+        "allowSyntheticDefaultImports": true //TODO: explain this
+    },
+    "include": [
+        "**/*.ts"
+    ]
+}
